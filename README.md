@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sleekyom
-- 👀 I’m interested in frontend projects collaborations
+<!-- - 👀 I’m interested in frontend projects collaborations -->
 <!-- - 🌱 I’m currently learning  -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
+- 💞️ I’m looking to collaborate on cool frontend projects
 - 📫 How to reach me:
 
 https://www.linkedin.com/in/kolawole-emmanuel-a167b781/
