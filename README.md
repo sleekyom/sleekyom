@@ -1,4 +1,4 @@
-# Hi, I’m Emmanuel Kolawole (@sleekyom)  
+# Hi, I’m Emmanuel Kolawole
 
 - **Current Role**: Lead Software Engineer at **Yolo Group**  
 - **About Me**:  
