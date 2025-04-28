@@ -44,18 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sleekyom&theme=radical" alt="GitHub Streak" height="200"/>
 </p>
 
----
-
-## 📌 Featured Projects
-
-> (You can manually "pin" repos on your GitHub profile, but here are suggestions you might want to highlight.)
-
-- **Frontend Framework Demos** — Show advanced concepts like SSR, hydration, micro-frontends.
-- **Open Source Contributions** — Forks you've contributed to, or small libraries/tools you've built.
-- **Side Projects** — Any SaaS app clones, portfolio sites, dashboards, or experimental UIs.
-
----
-
 <!--
 sleekyom/sleekyom is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
